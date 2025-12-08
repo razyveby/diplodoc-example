@@ -7,6 +7,8 @@ items:
     href: page.md
   - name: Другая страница
     href: anotherpage.md
+  - name: О вузе
+    href: UniversityKB/unidubna.md
   - name: Подраздел
     include:
       path: sub-section/toc.yaml
