@@ -25,7 +25,7 @@
 
 ---
 
-- [Гид первокурсника очной формы обучения](https://wiki.uni-dubna.ru/unidubna:first_year_student_guide "unidubna:first_year_student_guide")
+- [Гид первокурсника очной формы обучения](./Guaide_For_1stCurse_ft)
     
 - [Гид первокурсника заочной формы обучения](https://wiki.uni-dubna.ru/unidubna:dist_learn:first_year_student_guide "unidubna:dist_learn:first_year_student_guide")
     
