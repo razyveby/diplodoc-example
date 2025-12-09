@@ -32,7 +32,7 @@
 
 ---
 
-{% note alert %}
+{% note alert "" %}
 
 * **__[Внимание, мошенники!](https://wiki.uni-dubna.ru/unidubna:scam "unidubna:scam")__**
 
