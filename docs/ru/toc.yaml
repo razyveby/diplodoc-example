@@ -3,6 +3,3 @@ href: index.yaml
 items: 
   - name: О вузе
     href: UniversityKB/unidubna.md
-  - name: Гид первокурсника очной формы обучения
-    href: UniversityKB/Guaide_For_1stCurse_ft
-
